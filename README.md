@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/265254045.svg)](https://zenodo.org/doi/10.5281/zenodo.10442485)
 
-# yoon-etal_2025_naturewater
+# yoon-etal_2026_erw
 
 **The persistence of groundwater depletion in the United States across widely ranging futures**
 
