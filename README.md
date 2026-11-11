@@ -40,6 +40,7 @@ TBD
 
 ## Reproduce my figures
 
-3. Figure 1 - Conceptual Model Diagram: Manually generated in Powerpoint; Map of grid cells generated in QGIS |
-4. Figures 2-4 - Depletion results: Process raw output from Step __2__ above through `grid_cell_depletion_post_process.py` in __[1]__. Spatial joins to grid cells & aquifers and further visualization conducted in QGIS. Final touch-ups performed using Inkscape.
+3. Figure 1 - Conceptual Model Diagram: Manually generated in Powerpoint; Map of grid cells generated in QGIS.
+4. Figure 2 - Key Components of Groundwater Module: Manually generated in Powerpoint.
+5. Figures 3-5 - Depletion results: Process raw output from Step __2__ above through `grid_cell_depletion_post_process.py` in __[1]__. Spatial joins to grid cells & aquifers and further visualization conducted in QGIS. Final touch-ups performed using Inkscape.
 
