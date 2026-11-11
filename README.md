@@ -11,7 +11,7 @@ Jim Yoon<sup>1\*</sup>, Stephen Ferencz<sup>1</sup>,  and Travis Thurber<sup>1
 \* corresponding author:  jim.yoon@pnnl.gov
 
 ## Abstract
-Groundwater resources are essential for crop production, enabling irrigation in many arid regions of the world. With a growing dependence on groundwater to serve increasing crop demands, concerns have been raised regarding alarming rates of groundwater depletion at the global scale. Modeling efforts focused on projecting future groundwater depletion have been limited by key factors: exogenous assumptions of human demand for groundwater that are unresponsive to changing groundwater availability and cost, simplistic treatment of the physics of groundwater depletion, narrow application to localized contexts, and limited exploration of future uncertainties. To address these gaps, we introduce a new coupled human-natural modeling approach for process-rich, broad-exploration of groundwater depletion futures, initially deployed for the continental United States. Our results indicate persistent groundwater depletion across a range of hydrologic-economic futures, with many of the key agricultural regions of the U.S. encountering substantial depletion even in the absence of adverse hydrologic or economic change.
+Groundwater resources are essential for crop production, enabling irrigation in many arid regions of the world. With a growing dependence on groundwater to serve increasing crop demands, concerns have been raised regarding alarming rates of groundwater depletion at the global scale. Modeling efforts focused on projecting future groundwater depletion have been limited by key factors: exogenous assumptions of human demand for groundwater that are unresponsive to changing groundwater availability and cost, simplistic treatment of the physics of groundwater depletion, narrow application to localized contexts, and limited exploration of future uncertainties. To address these gaps, we introduce a coupled human-natural modeling approach that links a positive mathematical programming representation of farmer crop choice and irrigation decisions with an analytic, Theis-based groundwater cost-curve model. The two components interact annually: farmer groundwater extraction drives aquifer drawdown and rising pumping costs, which in turn condition the farmers’ following year cropping and irrigation decisions. The approach enables process-rich, broad exploration of groundwater depletion futures, initially deployed for ∼35 000 farm-groundwater systems across the major aquifers of the continental United States. Our results indicate persistent groundwater depletion across a range of hydrologic-economic futures, with many of the key agricultural regions of the U.S. encountering substantial depletion even in the absence of adverse hydrologic or economic change.
 
 ## Journal reference
 TBD
@@ -22,10 +22,10 @@ TBD
 ## Data reference
 
 ### Input data
-2. Jim Yoon, Stephen Ferencz, & Travis Thurber. To be made available via MSDLIVE https://doi.org/10.57931/2565944
+2. Jim Yoon, Stephen Ferencz, & Travis Thurber. Available on MSDLIVE. https://doi.org/10.57931/2565944
 
 ### Output data
-3. Jim Yoon, Stephen Ferencz, & Travis Thurber. To be made available via MSDLIVE https://doi.org/10.57931/2565944
+3. Jim Yoon, Stephen Ferencz, & Travis Thurber. Available on MSDLIVE. https://doi.org/10.57931/2565944
 
 
 ## Contributing modeling software
